@@ -1,0 +1,23 @@
+experiment:
+  name: salinas_cnn_baseline
+  task: hyperspectral_patch_classification
+  seed: 42
+
+data:
+  dataset: salinas
+  patch_size: 15
+  train_fraction: 0.1
+  num_classes: 16
+  bands: 204
+
+model:
+  name: cnn_baseline
+  hidden_channels: 64
+  dropout: 0.1
+
+training:
+  batch_size: 128
+  epochs: 5
+  learning_rate: 0.001
+  weight_decay: 0.0001
+

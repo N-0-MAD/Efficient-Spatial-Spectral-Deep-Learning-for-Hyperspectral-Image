@@ -1,0 +1,28 @@
+experiment:
+  name: sentinel2_patch_classification_baseline
+  task: patch_classification
+  seed: 42
+
+data:
+  patch_size: 32
+  bands: 12
+  normalize: reflectance_scale
+
+model:
+  name: cnn_baseline
+  hidden_channels: 64
+  dropout: 0.1
+
+training:
+  batch_size: 32
+  epochs: 20
+  learning_rate: 0.0003
+  weight_decay: 0.0001
+
+evaluation:
+  metrics:
+    - accuracy
+    - macro_f1
+    - parameter_count
+    - inference_latency
+
