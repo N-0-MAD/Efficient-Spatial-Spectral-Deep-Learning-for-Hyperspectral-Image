@@ -103,6 +103,8 @@ The Sentinel-2 notebook needs internet access and STAC dependencies, so Colab is
 
 For dataset choices beyond Sentinel-2, see [DATA_SOURCES.md](DATA_SOURCES.md).
 
+Curated experiment results are available in [reports/RESULTS.md](reports/RESULTS.md).
+
 ## Core References
 
 - [FoMo-Bench / FoMo-Net](https://arxiv.org/abs/2312.10114): forest monitoring benchmark and flexible remote sensing foundation model framing.

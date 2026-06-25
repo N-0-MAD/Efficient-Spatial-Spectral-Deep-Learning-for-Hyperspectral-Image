@@ -1,0 +1,3 @@
+model,best_epoch,accuracy,macro_f1
+CNN baseline,4,0.9482489633370283,0.9743759630093204
+Hybrid spatial-spectral,3,0.9733341544525188,0.9790618858920888

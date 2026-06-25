@@ -1,0 +1,5 @@
+transformer_patch_size,bands,tokens,attention_cost_proxy
+1,204,45900,2106810000
+3,204,5100,26010000
+5,204,1836,3370896
+15,204,204,41616
