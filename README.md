@@ -25,7 +25,7 @@ Build a remote sensing model that:
 ## Project Layout
 
 ```text
-dense-forest-monitoring/
+Efficient-Spatial-Spectral-Deep-Learning-for-Hyperspectral-Image/
   configs/
     sentinel2_redwood.yaml
   notebooks/
