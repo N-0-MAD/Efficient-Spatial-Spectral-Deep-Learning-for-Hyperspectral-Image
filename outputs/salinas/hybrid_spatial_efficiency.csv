@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,parameters,parameters_m,model_size_mb,flops,gflops,peak_gpu_memory_mb,batch_size,latency_batch_ms,latency_batch_median_ms,latency_batch_p95_ms,latency_batch_std_ms,latency_per_sample_ms,throughput_samples_sec
+Hybrid Spatial-Spectral,0.9809963099630996,0.963905233259482,605712,0.605712,2.330137252807617,82053120.0,0.08205312,252.45361328125,128,43.81522999989102,44.87419999350095,45.744410004408564,2.001661444568814,0.34230648437414857,2921.3586234813415

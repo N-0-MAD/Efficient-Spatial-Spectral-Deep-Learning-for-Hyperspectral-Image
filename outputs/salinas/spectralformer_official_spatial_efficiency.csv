@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,parameters,parameters_m,model_size_mb,flops,gflops,peak_gpu_memory_mb,batch_size,latency_batch_ms,latency_batch_median_ms,latency_batch_p95_ms,latency_batch_std_ms,latency_per_sample_ms,throughput_samples_sec
+SpectralFormer (Official),0.9273985239852398,0.9186741193148541,399381,0.399381,1.5529289245605469,43319680.0,0.04331968,370.25634765625,128,67.64080699998885,65.25064999732422,71.43572999993921,18.100158137623918,0.5284438046874129,1892.3488006289028

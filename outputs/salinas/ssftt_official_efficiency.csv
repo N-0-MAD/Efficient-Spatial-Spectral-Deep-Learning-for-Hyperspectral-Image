@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,parameters,parameters_m,model_size_mb,flops,gflops,peak_gpu_memory_mb,batch_size,latency_batch_ms,latency_batch_median_ms,latency_batch_p95_ms,latency_batch_std_ms,latency_per_sample_ms,throughput_samples_sec
+SSFTT (Official),0.9814575645756457,0.9540800790174658,153224,0.153224,0.5976009368896484,16907040.0,0.01690704,47.73974609375,128,8.622985000547487,5.602250006631948,10.490739996021027,13.051518763756885,0.06736707031677724,14844.047622937194

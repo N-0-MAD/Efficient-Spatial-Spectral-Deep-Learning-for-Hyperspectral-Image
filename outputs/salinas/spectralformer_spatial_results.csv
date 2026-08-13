@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1
+SpectralFormer,0.919280442804428,0.8823757710357462
