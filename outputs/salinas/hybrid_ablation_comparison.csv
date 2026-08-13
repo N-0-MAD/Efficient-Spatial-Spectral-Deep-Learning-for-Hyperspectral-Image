@@ -1,0 +1,5 @@
+model,accuracy,macro_f1
+CNN / Spatial-only,0.960148,0.94145
+Spectral-only,0.952,0.902
+Concat Hybrid,0.9744,0.9627
+Gated Hybrid,0.980996,0.963905

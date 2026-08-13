@@ -1,0 +1,4 @@
+model,test_accuracy,test_macro_f1
+CNN,0.960148,0.94145
+Hybrid Spatial-Spectral,0.980996,0.963905
+Transformer,0.9312730627306273,0.8994472653989067

@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,best_epoch,best_val_macro_f1
+Transformer,0.9312730627306273,0.8994472653989067,49,0.8397295740647048

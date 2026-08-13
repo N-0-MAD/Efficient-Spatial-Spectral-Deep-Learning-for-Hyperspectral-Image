@@ -1,0 +1,2 @@
+model,best_epoch,val_macro_f1,test_accuracy,test_macro_f1,parameters
+CNN,23,0.9675768765001878,0.9601476014760147,0.9414504200299868,126480
