@@ -8,7 +8,9 @@ src/dfm/__init__.py
 src/dfm/config.py
 src/dfm/data/__init__.py
 src/dfm/data/dataset.py
+src/dfm/data/hyperspectral_benchmarks.py
 src/dfm/data/patching.py
+src/dfm/data/salinas.py
 src/dfm/data/sentinel2.py
 src/dfm/data/transforms.py
 src/dfm/experiments/__init__.py
