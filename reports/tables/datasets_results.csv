@@ -1,0 +1,5 @@
+Dataset,Block Size,Accuracy,Macro F1
+PaviaU,32,0.9898,0.9836
+Botswana,8,0.9634,0.9441
+KSC,8,0.9943,0.9872
+Indian Pines,2,0.981,0.9701
