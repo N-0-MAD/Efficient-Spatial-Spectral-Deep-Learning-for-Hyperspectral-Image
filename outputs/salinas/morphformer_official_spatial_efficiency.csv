@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,parameters,parameters_m,model_size_mb,flops,gflops,peak_gpu_memory_mb,batch_size,latency_batch_ms,latency_batch_median_ms,latency_batch_p95_ms,latency_batch_std_ms,latency_per_sample_ms,throughput_samples_sec
+MorphFormer (Official),0.9396678966789668,0.9196297591215661,280752,0.280752,1.1055221557617188,66584352.0,0.066584352,504.84619140625,128,211.01772299967706,179.04640000779182,393.51862000185065,72.16993890193415,1.648575960934977,606.5841208996264

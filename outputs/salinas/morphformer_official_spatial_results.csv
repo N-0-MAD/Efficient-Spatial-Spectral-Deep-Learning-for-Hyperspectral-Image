@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,best_epoch,best_val_macro_f1
+MorphFormer (Official),0.9396678966789668,0.9196297591215661,8,0.9613827362534617
