@@ -1,0 +1,2 @@
+model,split,seed,best_epoch,accuracy,macro_f1,test_loss,parameters,parameters_m
+gast,spatial,42,6,0.9576568265682657,0.9285033423164251,0.21195169401087033,352464,0.352464

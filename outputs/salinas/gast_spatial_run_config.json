@@ -1,0 +1,31 @@
+{
+  "model": "gast",
+  "official_repository": "https://github.com/fesihkeskin/GAST.git",
+  "official_model_file": "c:\\Users\\Dines\\Documents\\Codex\\2026-05-15\\files-mentioned-by-the-user-dataset0\\dense-forest-monitoring_backup\\external\\GAST\\src\\models\\model_architecture.py",
+  "seed": 42,
+  "split_artifact": "salinas_spatial_split_seed42.npz",
+  "split_hashes": {
+    "train": "ec3617b38356b1ad4e2b8445b345f87be519a53ca34626484cb93d7b48a171d6",
+    "validation": "f569fc2e69cbf6bc770e170b9735459d7332d024fe06c433cde990c0f5287d8d",
+    "test": "6fb69fcd80676361c70bb751f6f73361dfe8d083b655de33fa7d69424358617e"
+  },
+  "block_size": 32,
+  "patch_size": 15,
+  "batch_size": 128,
+  "micro_batch_size": 16,
+  "epochs": 50,
+  "optimizer": "AdamW",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "scheduler": "CosineAnnealingLR(T_max=EPOCHS)",
+  "best_checkpoint_selected_by": "validation macro-F1",
+  "test_metrics": {
+    "loss": 0.21195169401087033,
+    "accuracy": 0.9576568265682657,
+    "macro_f1": 0.9285033423164251
+  },
+  "python": "3.11.5",
+  "pytorch": "2.5.1+cu118",
+  "torch_geometric": "2.8.0.post1",
+  "device": "cuda"
+}
