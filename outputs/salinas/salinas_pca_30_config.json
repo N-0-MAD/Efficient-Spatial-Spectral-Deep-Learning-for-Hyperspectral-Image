@@ -1,0 +1,9 @@
+{
+  "artifact": "salinas_pca_30.joblib",
+  "components": 30,
+  "patches_sampled": 2000,
+  "spectral_vectors_used": 200000,
+  "svd_solver": "randomized",
+  "random_state": 42,
+  "fit_source": "training patches only"
+}
