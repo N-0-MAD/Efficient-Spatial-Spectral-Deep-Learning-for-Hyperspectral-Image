@@ -1,0 +1,17 @@
+{
+  "model": "ssftt_official_spatial",
+  "seed": 42,
+  "patch_size": 15,
+  "batch_size": 128,
+  "epochs": 50,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "scheduler": "CosineAnnealingLR(T_max=50)",
+  "split_artifact": "salinas_spatial_split_seed42.npz",
+  "split_hashes": {
+    "train": "ec3617b38356b1ad4e2b8445b345f87be519a53ca34626484cb93d7b48a171d6",
+    "val": "f569fc2e69cbf6bc770e170b9735459d7332d024fe06c433cde990c0f5287d8d",
+    "test": "6fb69fcd80676361c70bb751f6f73361dfe8d083b655de33fa7d69424358617e"
+  },
+  "pca_artifact": "salinas_pca_30.joblib"
+}
