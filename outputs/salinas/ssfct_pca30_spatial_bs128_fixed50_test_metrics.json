@@ -1,0 +1,18 @@
+{
+  "model": "ssfct",
+  "accuracy": 0.9773062730627307,
+  "macro_f1": 0.9541148074843665,
+  "weighted_f1": 0.9790365255333559,
+  "kappa": 0.9742101121498028,
+  "best_epoch": 23,
+  "best_val_macro_f1": 0.9522486813871933,
+  "train_samples": 32337,
+  "val_samples": 10952,
+  "test_samples": 10840,
+  "seed": 42,
+  "patch_size": 15,
+  "pca_components": 30,
+  "batch_size": 128,
+  "epochs_configured": 50,
+  "split_file": "C:\\Users\\Dines\\Documents\\Codex\\2026-05-15\\files-mentioned-by-the-user-dataset0\\dense-forest-monitoring_backup\\outputs\\salinas\\salinas_spatial_split_seed42.npz"
+}

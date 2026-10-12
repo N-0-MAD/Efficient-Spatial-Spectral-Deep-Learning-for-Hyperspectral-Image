@@ -1,0 +1,22 @@
+                           precision    recall  f1-score   support
+
+    Brocoli_green_weeds_1     1.0000    1.0000    1.0000       909
+    Brocoli_green_weeds_2     1.0000    1.0000    1.0000       498
+                   Fallow     1.0000    1.0000    1.0000       296
+        Fallow_rough_plow     1.0000    1.0000    1.0000       295
+            Fallow_smooth     1.0000    1.0000    1.0000       863
+                  Stubble     1.0000    1.0000    1.0000       632
+                   Celery     1.0000    1.0000    1.0000       120
+         Grapes_untrained     0.9791    0.9714    0.9752      2899
+     Soil_vinyard_develop     1.0000    1.0000    1.0000      1177
+Corn_senesced_green_weeds     0.9912    0.8272    0.9018       544
+      Lettuce_romaine_4wk     0.3517    1.0000    0.5204        51
+      Lettuce_romaine_5wk     0.9803    1.0000    0.9901       448
+      Lettuce_romaine_6wk     1.0000    1.0000    1.0000       233
+      Lettuce_romaine_7wk     1.0000    0.9605    0.9799       228
+        Vinyard_untrained     0.8862    0.9111    0.8985       675
+ Vinyard_vertical_trellis     1.0000    1.0000    1.0000       972
+
+                 accuracy                         0.9773     10840
+                macro avg     0.9493    0.9794    0.9541     10840
+             weighted avg     0.9830    0.9773    0.9790     10840

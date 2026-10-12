@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,parameters,parameters_m,model_size_mb,flops,gflops,peak_gpu_memory_mb,batch_size,latency_batch_ms,latency_batch_median_ms,latency_batch_p95_ms,latency_batch_std_ms,latency_per_sample_ms,throughput_samples_sec,warmup_runs,timed_runs
+ssfct,0.9773062730627307,0.9541148074843665,1163399,1.163399,4.447132110595703,331266020.0,0.33126602,551.6328125,128,266.10918200000015,276.98904999942897,277.4185949999264,17.137562864000948,2.078977984375001,481.0055746216225,20,100
