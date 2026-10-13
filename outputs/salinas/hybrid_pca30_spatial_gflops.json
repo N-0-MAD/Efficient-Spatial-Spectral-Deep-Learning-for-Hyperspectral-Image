@@ -1,0 +1,18 @@
+{
+  "model": "hybrid_pca30_spatial",
+  "input_shape": "1x30x15x15",
+  "pca_components": 30,
+  "patch_size": 15,
+  "num_classes": 16,
+  "parameters": 594576,
+  "trainable_parameters": 594576,
+  "model_size_mb": 2.378304,
+  "thop_ops": 33555840.0,
+  "gflops": 0.03355584,
+  "profiler": "THOP",
+  "counting_convention": "THOP-reported operation count divided by 1e9, consistent with the project's existing efficiency notebooks; interpret MAC/FLOP convention according to THOP's operator counting.",
+  "measurement_scope": "single-sample model forward pass only; excludes PCA preprocessing and data loading",
+  "device": "cuda",
+  "pytorch_version": "2.5.1+cu118",
+  "checkpoint": "outputs\\salinas\\hybrid_pca30_spatial_spatial_best.pt"
+}
