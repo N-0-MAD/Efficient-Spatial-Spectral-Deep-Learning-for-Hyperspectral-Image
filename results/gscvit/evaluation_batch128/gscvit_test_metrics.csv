@@ -1,0 +1,2 @@
+model,dataset,split,split_file,checkpoint,test_samples,accuracy,macro_f1,evaluation_batch_size,device
+GSC-ViT,Salinas,spatial,c:\Users\Dines\Documents\Codex\2026-05-15\files-mentioned-by-the-user-dataset0\dense-forest-monitoring_backup\outputs\salinas\salinas_spatial_split_seed42.npz,c:\Users\Dines\Documents\Codex\2026-05-15\files-mentioned-by-the-user-dataset0\dense-forest-monitoring_backup\results\gscvit\gscvit_salinas_best.pth,10840,0.9806273062730627,0.9666879812641892,128,cuda

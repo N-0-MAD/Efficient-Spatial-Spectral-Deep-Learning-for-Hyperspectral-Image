@@ -1,0 +1,19 @@
+{
+  "python_version": "3.11.5",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "pytorch_version": "2.5.1+cu118",
+  "cuda_available": true,
+  "cuda_version": "11.8",
+  "device": "cuda",
+  "gpu_name": "NVIDIA GeForce RTX 2050",
+  "checkpoint_path": "c:\\Users\\Dines\\Documents\\Codex\\2026-05-15\\files-mentioned-by-the-user-dataset0\\dense-forest-monitoring_backup\\results\\gscvit\\gscvit_salinas_best.pth",
+  "checkpoint_size_bytes": 751712,
+  "split_path": "c:\\Users\\Dines\\Documents\\Codex\\2026-05-15\\files-mentioned-by-the-user-dataset0\\dense-forest-monitoring_backup\\outputs\\salinas\\salinas_spatial_split_seed42.npz",
+  "split_seed_in_filename": 42,
+  "patch_size_before_padding": 15,
+  "model_input_spatial_size": "16x16",
+  "padding_mode": "reflect",
+  "benchmark_batch_size": 128,
+  "warmup_iterations": 20,
+  "timed_iterations": 100
+}

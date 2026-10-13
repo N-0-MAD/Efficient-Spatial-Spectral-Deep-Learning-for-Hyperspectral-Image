@@ -1,0 +1,12 @@
+{
+  "model": "GSC-ViT",
+  "dataset": "Salinas",
+  "split": "spatial",
+  "split_file": "c:\\Users\\Dines\\Documents\\Codex\\2026-05-15\\files-mentioned-by-the-user-dataset0\\dense-forest-monitoring_backup\\outputs\\salinas\\salinas_spatial_split_seed42.npz",
+  "checkpoint": "c:\\Users\\Dines\\Documents\\Codex\\2026-05-15\\files-mentioned-by-the-user-dataset0\\dense-forest-monitoring_backup\\results\\gscvit\\gscvit_salinas_best.pth",
+  "test_samples": 10840,
+  "accuracy": 0.9806273062730627,
+  "macro_f1": 0.9666879812641892,
+  "evaluation_batch_size": 128,
+  "device": "cuda"
+}
